@@ -1,1 +1,2 @@
-# testing_repo
+# Practice Repository for Computer Science 2
+
